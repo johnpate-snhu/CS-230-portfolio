@@ -18,7 +18,7 @@ If I were to revise one part it would be the Memory and Storage Management docum
 
 Interpreting and Implementing User Needs:
 
-I interpreted the user's needs by analyzing the client’s goals—cross-platform accessibility, performance, and security—and translated those into system features like platform-independent communication protocols, memory optimization strategies, and secure data handling. Considering user needs is crucial because the success of the software depends on how well it solves the user's problem.
+I interpreted the user's needs by analyzing the client’s goals and translated those into system features like platform-independent communication protocols, memory optimization strategies, and secure data handling. Considering user needs is crucial because the success of the software depends on how well it solves the user's problem.
 
 Approach and Future Techniques:
 
